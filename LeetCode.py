@@ -6,3 +6,5 @@ print(filled_array)
 
 #2: to get the index of a value
 index_of_7 = filled_array.index(7)
+
+#3: count() in python
