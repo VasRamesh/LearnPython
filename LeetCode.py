@@ -8,3 +8,4 @@ print(filled_array)
 index_of_7 = filled_array.index(7)
 
 #3: count() in python
+#4a: enumerate()
